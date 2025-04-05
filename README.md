@@ -31,3 +31,4 @@ Este projeto foi desenvolvido no Google Colab. Para rodar:
 ---
 
 Feito com 💛 por Giovanna Paiva Alves e Matheus Sanchez Duda
+(Individuos que o firness ainda está ok 😁)
