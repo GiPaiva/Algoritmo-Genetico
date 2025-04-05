@@ -16,6 +16,7 @@ Este projeto foi desenvolvido no Google Colab. Para rodar:
 
 ## 📁 Arquivos
 
+- `Modelagem EP2 IA_250401_212241.pdf`: Modelagem do problema
 - `EP2_IA.ipynb`: Notebook principal com todo o código e explicações, alem do link direto do Google Colab.
 
 ## 🧠 Requisitos
