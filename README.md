@@ -1,6 +1,9 @@
 # Algoritmo-Genetico
 Projeto de cunho universitario, do curso Bacharelado em Ciencia da Computação no Campus SENAC Nações Unidas, na matéria Inteligencia Artificia do 5° semestre, mentorada por Celso Crivelaro.
 
+## 🔬 Tema
+   Equipamentos no Laboratório de Química do SENAC
+   
 ## 🚀 Como executar
 
 Este projeto foi desenvolvido no Google Colab. Para rodar:
